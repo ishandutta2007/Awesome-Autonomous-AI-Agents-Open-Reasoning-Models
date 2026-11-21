@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,61 +42,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global Autonomous AI Agents (Agentic AI) market is estimated at **$9.9B – $11.5B in 2026** and projected to surge past **$110B+ by the early 2030s** at an aggressive **~43–47% CAGR**. Market dynamics exhibit a bifurcated structure: **highly fragmented** across thousands of niche application and workflow startups, yet **moderately concentrated** at the infrastructure, runtime, and foundational reasoning layer where top venture-backed unicorns and cloud hyperscalers capture the bulk of enterprise compute and deployment spend.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Devin (Cognition AI)](https://cognition.ai)**  
-
-  Autonomous AI software engineering platform featuring an isolated cloud terminal, code editor, browser, and long-horizon reasoning engine to execute full engineering tasks.
-
-
-
-- **[Lindy](https://lindy.ai)**  
-
-  No-code autonomous AI agent platform enabling business teams to create, connect, and schedule multi-step AI employees across email, CRM, calendar, and web apps.
-
-
-
-- **[MultiOn](https://multion.ai)**  
-
-  Cloud-hosted personal and enterprise web-browsing AI agent API capable of autonomously navigating websites, filling forms, and executing multi-step online actions.
-
-
-
-- **[Adept AI](https://adept.ai)**  
-
-  Enterprise multimodal AI agent platform trained to perceive graphical user interfaces and automate complex cross-application software workflows.
-
-
-
-- **[CrewAI Enterprise](https://crewai.com)**  
-
-  Managed cloud control plane for deploying, scaling, tracing, and governing collaborative role-based multi-agent workflows in production.
-
-
-
-- **[AgentOps](https://agentops.ai)**  
-
-  Cloud observability, session replay, latency tracking, and cost-monitoring platform built specifically for debugging and evaluating autonomous AI agents.
-
-
-
-- **[Relevance AI](https://relevanceai.com)**  
-
-  Cloud multi-agent workforce platform enabling organizations to build, chain, and deploy autonomous research, outreach, and operations agents without heavy engineering.
-
-
-
-- **[Stack AI](https://stack-ai.com)**  
-
-  Enterprise no-code/low-code AI workflow and autonomous agent builder connecting frontier reasoning models to internal databases, APIs, and compliance guardrails.
-
-
-
-- **[Fixie.ai](https://fixie.ai)**  
-
-  Cloud platform for building and hosting conversational, voice-enabled, and tool-using autonomous agents integrated with live enterprise data sources.
+| Platform | Valuation / Size | Starting Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Devin (Cognition AI)](https://cognition.ai)** | $48B valuation (Series E; ~$900M run-rate revenue) | $20/month (Pro plan) | Light usage quota to code with agents; unlimited inline edits & Tab completions (Devin Desktop/CLI) | Autonomous AI software engineering platform with an isolated cloud terminal, code editor, browser, and long-horizon reasoning engine. |
+| **[Adept AI](https://adept.ai)** | $1B valuation (Peak Series B; core IP & team licensed to Amazon for ~$25M) | Contact sales / Enterprise pilot | Enterprise-managed pilot / proof-of-concept upon sales approval (no public self-serve trial) | Enterprise multimodal AI agent platform trained to perceive graphical user interfaces and automate complex cross-application workflows. |
+| **[MultiOn](https://multion.ai)** | ~$100M valuation ($20M Series A led by General Catalyst) | $20/month (Pro plan) | ~100 web actions/month via Chrome extension & web app | Cloud-hosted personal and enterprise web-browsing AI agent API capable of navigating websites, filling forms, and executing online actions. |
+| **[Stack AI](https://stack-ai.com)** | $75M valuation (Acquired by Asana; ~$3M ARR) | Custom enterprise pricing / contact sales | 500 runs/month, 2 projects, and 1 user seat | Enterprise no-code/low-code AI workflow and autonomous agent builder connecting frontier reasoning models to databases, APIs, and guardrails. |
+| **[Fixie.ai (Ultravox)](https://fixie.ai)** | $51.5M valuation (Seed stage; acquired by Inworld AI) | $100/month (Pro plan; pay-as-you-go at $0.05/min) | 30 minutes of free voice calls, up to 5 concurrent calls, unlimited playground calls | Cloud platform for building and hosting conversational, voice-enabled, and tool-using autonomous speech agents. |
+| **[Lindy](https://lindy.ai)** | ~$50M–$54M total funding raised | $29.99/user/month (Plus plan) | 7-day free trial with $50 worth of trial credits (automated actions pause once credits exhaust) | No-code autonomous AI agent platform enabling business teams to build and schedule multi-step AI employees across email, CRM, and calendar. |
+| **[Relevance AI](https://relevanceai.com)** | ~$37M total funding raised ($24M Series B; ~$3M–$12M ARR) | $29/month ($19/month billed annually for Pro plan) | No permanent free tier; 2,500 Actions/month & base vendor credits on starter paid tier (BYOK supported) | Cloud multi-agent workforce platform enabling organizations to build, chain, and deploy autonomous research, outreach, and operations agents. |
+| **[CrewAI Enterprise](https://crewai.com)** | ~$18M total funding raised (Series A; ~$2.4M–$3.2M ARR) | $25/month (Professional tier) | 50 workflow executions/month, 1 user seat, access to Crew Studio and AI Copilot | Managed cloud control plane for deploying, scaling, tracing, and governing collaborative role-based multi-agent workflows in production. |
+| **[AgentOps](https://agentops.ai)** | ~$2.6M total seed funding raised | $40/month (Pro pay-as-you-go) | 5,000 events/month, 7-day data retention, single user | Cloud observability, session replay, latency tracking, and cost-monitoring platform built for debugging and evaluating autonomous AI agents. |
 
 
 
