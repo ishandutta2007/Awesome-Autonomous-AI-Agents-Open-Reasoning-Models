@@ -56,75 +56,75 @@ The global **Autonomous AI Agents (Agentic AI)** market is estimated at **$9.9B 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-weight reasoning models, autonomous agent frameworks, runtimes, and developer tooling—**sorted in descending order by GitHub Stars**:
+Curated open-weight reasoning models, autonomous agent frameworks, runtimes, and developer tooling—**sorted in descending order by GitHub_Stars**:
 
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** [![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social&color=white)](https://github.com/NousResearch/hermes-agent/stargazers)  
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social&color=white)](https://github.com/NousResearch/hermes-agent/stargazers)  
   *Next-gen autonomous agent framework from Nous Research engineered for deep function calling, structured multi-step reasoning, persistent episodic memory, and open-weight Hermes reasoning models.* 🧠⚡
 
-- **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+- **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   *Pioneering open-source autonomous agent platform providing a visual agent builder graph, long-term memory, modular agent skills, and continuous goal-driven task execution.* 🤖✨
 
-- **[browser-use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+- **[browser-use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
   *Open-source web automation library making websites accessible for autonomous AI agents via DOM perception, Playwright automation, and vision-language model execution.* 🌐🦾
 
-- **[DeepSeek-R1 (`deepseek-ai/DeepSeek-R1`)](https://github.com/deepseek-ai/DeepSeek-R1)** [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&color=white)](https://github.com/deepseek-ai/DeepSeek-R1/stargazers)  
+- **[DeepSeek-R1 (`deepseek-ai/DeepSeek-R1`)](https://github.com/deepseek-ai/DeepSeek-R1)** [![GitHub_Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&color=white)](https://github.com/deepseek-ai/DeepSeek-R1/stargazers)  
   *Breakthrough open-weight reasoning model family trained via large-scale Reinforcement Learning (GRPO) to generate long Chain-of-Thought (CoT) problem-solving for coding, math, and logic.* 💡🧪
 
-- **[MetaGPT (`FoundationAgents/MetaGPT`)](https://github.com/FoundationAgents/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)  
+- **[MetaGPT (`FoundationAgents/MetaGPT`)](https://github.com/FoundationAgents/MetaGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)  
   *Multi-agent software engineering framework simulating an entire software company (Product Managers, Architects, Project Managers, Engineers) with Standard Operating Procedures (SOPs).* 🏢💻
 
-- **[AutoGen & AG2 (`microsoft/autogen` / `ag2ai/ag2`)](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+- **[AutoGen & AG2 (`microsoft/autogen` / `ag2ai/ag2`)](https://github.com/microsoft/autogen)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
   *Microsoft's multi-agent conversational framework enabling event-driven, multi-agent cooperation, automated code execution sandboxes, and human-in-the-loop oversight.* 🔄👥
 
-- **[CrewAI (`crewAIInc/crewAI`)](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+- **[CrewAI (`crewAIInc/crewAI`)](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   *Leading Python framework for orchestrating collaborative teams of autonomous AI agents with customized roles, memory, goal delegation, and specialized tools.* 🤝⚙️
 
-- **[LangGraph (`langchain-ai/langgraph`)](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+- **[LangGraph (`langchain-ai/langgraph`)](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   *Stateful, cyclical multi-agent graph coordination library featuring durable state persistence, time-travel debugging, and human approval checkpoints.* 🕸️🔄
 
-- **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+- **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
   *Open-source LLM engineering and AI agent observability platform providing full trace trees, prompt management, cost tracking, and reasoning step analytics.* 📊🔍
 
-- **[ChatDev (`OpenBMB/ChatDev`)](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+- **[ChatDev (`OpenBMB/ChatDev`)](https://github.com/OpenBMB/ChatDev)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
   *Virtual software development company operated by multi-agent role-playing communicating via communicative de-biasing dialogues to design, code, and test applications.* 💬🛠️
 
-- **[smolagents (`huggingface/smolagents`)](https://github.com/huggingface/smolagents)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
+- **[smolagents (`huggingface/smolagents`)](https://github.com/huggingface/smolagents)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
   *Lightweight, code-first agent library from Hugging Face where agents write and run raw Python actions rather than verbose JSON blobs for maximum speed and simplicity.* ⚡🐍
 
-- **[Open-R1 (`huggingface/open-r1`)](https://github.com/huggingface/open-r1)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-r1?style=social&color=white)](https://github.com/huggingface/open-r1/stargazers)  
+- **[Open-R1 (`huggingface/open-r1`)](https://github.com/huggingface/open-r1)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/open-r1?style=social&color=white)](https://github.com/huggingface/open-r1/stargazers)  
   *Fully open-source initiative by Hugging Face replicating the DeepSeek-R1 pipeline from synthetic data collection, SFT reasoning traces, to GRPO reinforcement learning.* 🔓🔬
 
-- **[verl (`verl-project/verl`)](https://github.com/verl-project/verl)** [![GitHub stars](https://img.shields.io/github/stars/verl-project/verl?style=social&color=white)](https://github.com/verl-project/verl/stargazers)  
+- **[verl (`verl-project/verl`)](https://github.com/verl-project/verl)** [![GitHub_Stars](https://img.shields.io/github/stars/verl-project/verl?style=social&color=white)](https://github.com/verl-project/verl/stargazers)  
   *High-throughput, flexible reinforcement learning training library for LLMs and reasoning models (Volcano Engine RL) supporting Hybrid-Engine PPO and GRPO at scale.* 🚀🧠
 
-- **[BabyAGI (`yoheinakajima/babyagi`)](https://github.com/yoheinakajima/babyagi)** [![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social&color=white)](https://github.com/yoheinakajima/babyagi/stargazers)  
+- **[BabyAGI (`yoheinakajima/babyagi`)](https://github.com/yoheinakajima/babyagi)** [![GitHub_Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social&color=white)](https://github.com/yoheinakajima/babyagi/stargazers)  
   *Foundational autonomous task-driven agent that created the paradigm of autonomous task creation, task prioritization, and recursive execution loops.* 👶🔄
 
-- **[OpenAI Swarm (`openai/swarm`)](https://github.com/openai/swarm)** [![GitHub stars](https://img.shields.io/github/stars/openai/swarm?style=social&color=white)](https://github.com/openai/swarm/stargazers)  
+- **[OpenAI Swarm (`openai/swarm`)](https://github.com/openai/swarm)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/swarm?style=social&color=white)](https://github.com/openai/swarm/stargazers)  
   *Educational, ergonomic multi-agent orchestration framework from OpenAI exploring lightweight agent handoffs, tool routines, and multi-agent coordination.* 🐝🔀
 
-- **[PydanticAI (`pydantic/pydantic-ai`)](https://github.com/pydantic/pydantic-ai)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
+- **[PydanticAI (`pydantic/pydantic-ai`)](https://github.com/pydantic/pydantic-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
   *Production-grade Python agent framework built by the Pydantic team, bringing strict type validation, dependency injection, and model-agnostic execution.* 🛡️🐍
 
-- **[SWE-agent (`SWE-agent/SWE-agent`)](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
+- **[SWE-agent (`SWE-agent/SWE-agent`)](https://github.com/SWE-agent/SWE-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
   *Autonomous software engineering agent built by Princeton NLP that fixes bugs and resolves real GitHub issues using an Agent-Computer Interface (ACI).* 🧑‍💻🐛
 
-- **[SuperAGI (`TransformerOptimus/SuperAGI`)](https://github.com/TransformerOptimus/SuperAGI)** [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
+- **[SuperAGI (`TransformerOptimus/SuperAGI`)](https://github.com/TransformerOptimus/SuperAGI)** [![GitHub_Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
   *Dev-first autonomous AI agent framework featuring concurrent agent execution, graphical telemetry, vector memory storage, and extensible multi-tool integration.* 🦾🔋
 
-- **[E2B (`e2b-dev/E2B`)](https://github.com/e2b-dev/E2B)** [![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
+- **[E2B (`e2b-dev/E2B`)](https://github.com/e2b-dev/E2B)** [![GitHub_Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
   *Secure cloud sandboxes and execution environments for AI agents to run untrusted code, execute terminal commands, and browse web environments safely.* 📦🔒
 
-- **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+- **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
   *AI observability and agent evaluation platform featuring OpenTelemetry tracing, span evaluation, embedding visualization, and hallucination monitoring.* 🔭📈
 
-- **[OpenRLHF (`OpenRLHF/OpenRLHF`)](https://github.com/OpenRLHF/OpenRLHF)** [![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social&color=white)](https://github.com/OpenRLHF/OpenRLHF/stargazers)  
+- **[OpenRLHF (`OpenRLHF/OpenRLHF`)](https://github.com/OpenRLHF/OpenRLHF)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social&color=white)](https://github.com/OpenRLHF/OpenRLHF/stargazers)  
   *Ray-based distributed RLHF and reasoning post-training framework supporting 70B+ model training with PPO, DPO, KTO, and GRPO.* ⚡🏋️‍♂️
 
-- **[SkyThought / Sky-T1 (`NovaSky-AI/SkyThought`)](https://github.com/NovaSky-AI/SkyThought)** [![GitHub stars](https://img.shields.io/github/stars/NovaSky-AI/SkyThought?style=social&color=white)](https://github.com/NovaSky-AI/SkyThought/stargazers)  
+- **[SkyThought / Sky-T1 (`NovaSky-AI/SkyThought`)](https://github.com/NovaSky-AI/SkyThought)** [![GitHub_Stars](https://img.shields.io/github/stars/NovaSky-AI/SkyThought?style=social&color=white)](https://github.com/NovaSky-AI/SkyThought/stargazers)  
   *Open-source reasoning model initiative curating high-quality verifiable math/code Chain-of-Thought datasets and post-training recipes.* 🌌📚
 
-- **[QwQ / Qwen3 (`QwenLM/QwQ`)](https://github.com/QwenLM/QwQ)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/QwQ?style=social&color=white)](https://github.com/QwenLM/QwQ/stargazers)  
+- **[QwQ / Qwen3 (`QwenLM/QwQ`)](https://github.com/QwenLM/QwQ)** [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/QwQ?style=social&color=white)](https://github.com/QwenLM/QwQ/stargazers)  
   *Alibaba's open-weight reasoning model family showcasing step-by-step thinking, mathematical logic, code generation, and test-time compute exploration.* 🧠📐
 
 ---
