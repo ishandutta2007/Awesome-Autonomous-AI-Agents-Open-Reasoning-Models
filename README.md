@@ -1,54 +1,44 @@
-# Awesome-Autonomous-AI-Agents-Open-Reasoning-Models
+<div align="center">
 
-## Top Autonomous AI Agents & Open Reasoning Models Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Autonomous AI Agents & Open Reasoning Models Banner" width="100%" />
 
+# 🤖 Awesome Autonomous AI Agents & Open Reasoning Models 🧠
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Open-Reasoning-Models/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Autonomous-AI-Agents-Open-Reasoning-Models)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+**The premier curated directory of production-grade Autonomous AI Agents, Open-Weight Reasoning Models (Reinforcement Learning / Test-Time Chain-of-Thought), Multi-Agent Orchestration Frameworks, and Self-Hosted Agent Observability Runtimes.**
 
-*Focused on Autonomous AI Agent Frameworks, Open-Weight Reasoning Models (RL/CoT), Multi-Agent Orchestration & Agent Observability*  
+*Tracked, analyzed, and updated for researchers, ML engineers, software developers, and enterprise automation architects.*
 
-**Last updated: November 2026**
+📅 **Last updated: November 2026**
 
+</div>
 
+---
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Autonomous AI Agents & Open Reasoning Models**. These tools build, orchestrate, evaluate, monitor, and power autonomous multi-step AI agents using open-weight test-time reasoning models (DeepSeek-R1, Qwen3/QwQ, OpenThinker, Hermes), multi-agent workflows, browser/computer-use executors, and self-hosted agent runtimes.
+## 📌 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include AutoGPT, Devin, CrewAI, Cognition, MultiOn, Adept, Lindy, BabyAGI, AgentOps, SuperAGI, and NousResearch/hermes-agent (the category leaders and popular runtimes). 
+## 🌐 Sector Overview & Market Dynamics
 
+The global **Autonomous AI Agents (Agentic AI)** market is estimated at **$9.9B – $11.5B in 2026** and projected to surge past **$110B+ by the early 2030s** at an aggressive **~43–47% CAGR**. Market dynamics exhibit a bifurcated structure: **highly fragmented** across thousands of niche application and workflow startups, yet **moderately concentrated** at the infrastructure, runtime, and foundational reasoning layer where top venture-backed unicorns and cloud hyperscalers capture the bulk of enterprise compute and deployment spend.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for open-weight reasoning models (`DeepSeek-R1`, `Qwen3 / QwQ`, `Sky-T1`, `Open-R1`), autonomous agent runtimes (`NousResearch/hermes-agent`, `AutoGPT`, `CrewAI`, `SuperAGI`, `BabyAGI`), and open-source agent observability (`Phoenix`, `Langfuse`) — ideal for AI researchers, ML engineers, agent developers, and privacy-focused builders creating transparent reasoning systems.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global Autonomous AI Agents (Agentic AI) market is estimated at **$9.9B – $11.5B in 2026** and projected to surge past **$110B+ by the early 2030s** at an aggressive **~43–47% CAGR**. Market dynamics exhibit a bifurcated structure: **highly fragmented** across thousands of niche application and workflow startups, yet **moderately concentrated** at the infrastructure, runtime, and foundational reasoning layer where top venture-backed unicorns and cloud hyperscalers capture the bulk of enterprise compute and deployment spend.
-
-
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Hosted Platforms
 
 | Platform | Valuation / Size | Starting Pricing | Free Tier Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -62,134 +52,123 @@ The global Autonomous AI Agents (Agentic AI) market is estimated at **$9.9B – 
 | **[CrewAI Enterprise](https://crewai.com)** | ~$18M total funding raised (Series A; ~$2.4M–$3.2M ARR) | $25/month (Professional tier) | 50 workflow executions/month, 1 user seat, access to Crew Studio and AI Copilot | Managed cloud control plane for deploying, scaling, tracing, and governing collaborative role-based multi-agent workflows in production. |
 | **[AgentOps](https://agentops.ai)** | ~$2.6M total seed funding raised | $40/month (Pro pay-as-you-go) | 5,000 events/month, 7-day data retention, single user | Cloud observability, session replay, latency tracking, and cost-monitoring platform built for debugging and evaluating autonomous AI agents. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
+Curated open-weight reasoning models, autonomous agent frameworks, runtimes, and developer tooling—**sorted in descending order by GitHub Stars**:
 
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** [![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=social&color=white)](https://github.com/NousResearch/hermes-agent/stargazers)  
+  *Next-gen autonomous agent framework from Nous Research engineered for deep function calling, structured multi-step reasoning, persistent episodic memory, and open-weight Hermes reasoning models.* 🧠⚡
 
-## Open-Source GitHub Projects
+- **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+  *Pioneering open-source autonomous agent platform providing a visual agent builder graph, long-term memory, modular agent skills, and continuous goal-driven task execution.* 🤖✨
 
+- **[browser-use (`browser-use/browser-use`)](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+  *Open-source web automation library making websites accessible for autonomous AI agents via DOM perception, Playwright automation, and vision-language model execution.* 🌐🦾
 
+- **[DeepSeek-R1 (`deepseek-ai/DeepSeek-R1`)](https://github.com/deepseek-ai/DeepSeek-R1)** [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&color=white)](https://github.com/deepseek-ai/DeepSeek-R1/stargazers)  
+  *Breakthrough open-weight reasoning model family trained via large-scale Reinforcement Learning (GRPO) to generate long Chain-of-Thought (CoT) problem-solving for coding, math, and logic.* 💡🧪
 
-- **[NousResearch/hermes-agent](https://github.com)**  
+- **[MetaGPT (`FoundationAgents/MetaGPT`)](https://github.com/FoundationAgents/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)  
+  *Multi-agent software engineering framework simulating an entire software company (Product Managers, Architects, Project Managers, Engineers) with Standard Operating Procedures (SOPs).* 🏢💻
 
-  Open-source autonomous agent framework from Nous Research designed around deep function-calling, structured reasoning, persistent memory, and open-weight Hermes/reasoning models.
+- **[AutoGen & AG2 (`microsoft/autogen` / `ag2ai/ag2`)](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+  *Microsoft's multi-agent conversational framework enabling event-driven, multi-agent cooperation, automated code execution sandboxes, and human-in-the-loop oversight.* 🔄👥
 
+- **[CrewAI (`crewAIInc/crewAI`)](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  *Leading Python framework for orchestrating collaborative teams of autonomous AI agents with customized roles, memory, goal delegation, and specialized tools.* 🤝⚙️
 
+- **[LangGraph (`langchain-ai/langgraph`)](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  *Stateful, cyclical multi-agent graph coordination library featuring durable state persistence, time-travel debugging, and human approval checkpoints.* 🕸️🔄
 
-- **[AutoGPT (`Significant-Gravitas/AutoGPT`)](https://github.com)**  
+- **[Langfuse (`langfuse/langfuse`)](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+  *Open-source LLM engineering and AI agent observability platform providing full trace trees, prompt management, cost tracking, and reasoning step analytics.* 📊🔍
 
-  Pioneering open-source autonomous AI agent platform offering a visual low-code agent builder, continuous goal execution, and self-hosted workflow automation.
+- **[ChatDev (`OpenBMB/ChatDev`)](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+  *Virtual software development company operated by multi-agent role-playing communicating via communicative de-biasing dialogues to design, code, and test applications.* 💬🛠️
 
+- **[smolagents (`huggingface/smolagents`)](https://github.com/huggingface/smolagents)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social&color=white)](https://github.com/huggingface/smolagents/stargazers)  
+  *Lightweight, code-first agent library from Hugging Face where agents write and run raw Python actions rather than verbose JSON blobs for maximum speed and simplicity.* ⚡🐍
 
+- **[Open-R1 (`huggingface/open-r1`)](https://github.com/huggingface/open-r1)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-r1?style=social&color=white)](https://github.com/huggingface/open-r1/stargazers)  
+  *Fully open-source initiative by Hugging Face replicating the DeepSeek-R1 pipeline from synthetic data collection, SFT reasoning traces, to GRPO reinforcement learning.* 🔓🔬
 
-- **[CrewAI (`crewAIInc/crewAI`)](https://github.com)**  
+- **[verl (`verl-project/verl`)](https://github.com/verl-project/verl)** [![GitHub stars](https://img.shields.io/github/stars/verl-project/verl?style=social&color=white)](https://github.com/verl-project/verl/stargazers)  
+  *High-throughput, flexible reinforcement learning training library for LLMs and reasoning models (Volcano Engine RL) supporting Hybrid-Engine PPO and GRPO at scale.* 🚀🧠
 
-  Popular open-source Python framework for orchestrating role-playing, autonomous AI agents that collaborate, delegate tasks, and share tools to solve complex goals.
+- **[BabyAGI (`yoheinakajima/babyagi`)](https://github.com/yoheinakajima/babyagi)** [![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social&color=white)](https://github.com/yoheinakajima/babyagi/stargazers)  
+  *Foundational autonomous task-driven agent that created the paradigm of autonomous task creation, task prioritization, and recursive execution loops.* 👶🔄
 
+- **[OpenAI Swarm (`openai/swarm`)](https://github.com/openai/swarm)** [![GitHub stars](https://img.shields.io/github/stars/openai/swarm?style=social&color=white)](https://github.com/openai/swarm/stargazers)  
+  *Educational, ergonomic multi-agent orchestration framework from OpenAI exploring lightweight agent handoffs, tool routines, and multi-agent coordination.* 🐝🔀
 
+- **[PydanticAI (`pydantic/pydantic-ai`)](https://github.com/pydantic/pydantic-ai)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social&color=white)](https://github.com/pydantic/pydantic-ai/stargazers)  
+  *Production-grade Python agent framework built by the Pydantic team, bringing strict type validation, dependency injection, and model-agnostic execution.* 🛡️🐍
 
-- **[SuperAGI (`TransformerOptimus/SuperAGI`)](https://github.com)**  
+- **[SWE-agent (`SWE-agent/SWE-agent`)](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers)  
+  *Autonomous software engineering agent built by Princeton NLP that fixes bugs and resolves real GitHub issues using an Agent-Computer Interface (ACI).* 🧑‍💻🐛
 
-  Dev-first open-source autonomous AI agent framework featuring concurrent agent execution, graphical telemetry, vector memory storage, and extensible toolkits.
+- **[SuperAGI (`TransformerOptimus/SuperAGI`)](https://github.com/TransformerOptimus/SuperAGI)** [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
+  *Dev-first autonomous AI agent framework featuring concurrent agent execution, graphical telemetry, vector memory storage, and extensible multi-tool integration.* 🦾🔋
 
+- **[E2B (`e2b-dev/E2B`)](https://github.com/e2b-dev/E2B)** [![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)  
+  *Secure cloud sandboxes and execution environments for AI agents to run untrusted code, execute terminal commands, and browse web environments safely.* 📦🔒
 
+- **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+  *AI observability and agent evaluation platform featuring OpenTelemetry tracing, span evaluation, embedding visualization, and hallucination monitoring.* 🔭📈
 
-- **[BabyAGI (`yoheinakajima/babyagi`)](https://github.com)**  
+- **[OpenRLHF (`OpenRLHF/OpenRLHF`)](https://github.com/OpenRLHF/OpenRLHF)** [![GitHub stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social&color=white)](https://github.com/OpenRLHF/OpenRLHF/stargazers)  
+  *Ray-based distributed RLHF and reasoning post-training framework supporting 70B+ model training with PPO, DPO, KTO, and GRPO.* ⚡🏋️‍♂️
 
-  Foundational open-source task-driven autonomous agent architecture demonstrating self-directed task creation, prioritization, and execution loops using LLMs and vector embeddings.
+- **[SkyThought / Sky-T1 (`NovaSky-AI/SkyThought`)](https://github.com/NovaSky-AI/SkyThought)** [![GitHub stars](https://img.shields.io/github/stars/NovaSky-AI/SkyThought?style=social&color=white)](https://github.com/NovaSky-AI/SkyThought/stargazers)  
+  *Open-source reasoning model initiative curating high-quality verifiable math/code Chain-of-Thought datasets and post-training recipes.* 🌌📚
 
-
-
-- **[DeepSeek-R1 (`deepseek-ai/DeepSeek-R1`)](https://github.com)**  
-
-  Breakthrough open-weight reasoning model family trained via large-scale Reinforcement Learning (GRPO) to generate verifiable multi-step Chain-of-Thought (CoT) reasoning.
-
-
-
-- **[Open-R1 (Hugging Face)](https://github.com)**  
-
-  Fully open-source reproduction of the DeepSeek-R1 reinforcement learning training pipeline, synthetic reasoning datasets, and evaluation benchmarks.
-
-
-
-- **[Qwen3 & QwQ (`QwenLM/Qwen3`)](https://github.com)**  
-
-  Leading open-weight hybrid-thinking and reasoning model suite supporting dynamic thinking budgets, tool calling, coding, and mathematical problem solving.
-
-
-
-- **[Sky-T1 (`NovaSky-AI/SkyThought`)](https://github.com)**  
-
-  Open-source, low-cost reproducible reasoning model and data-curation recipe demonstrating competitive math and code reasoning performance on open weights.
-
-
-
-- **[OpenAI Swarm / OpenAI Agents SDK (`openai/openai-agents-python`)](https://github.com)**  
-
-  Lightweight open-source multi-agent orchestration framework emphasizing ergonomic agent handoffs, guardrails, and built-in tracing.
-
-
-
-- **[AutoGen & AG2 (`microsoft/autogen` / `ag2ai/ag2`)](https://github.com)**  
-
-  Open-source event-driven programming framework for building conversational multi-agent systems with automated code execution and human-in-the-loop oversight.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[LangGraph (`langchain-ai/langgraph`)](https://github.com)** for building stateful, cyclic, controllable multi-agent graphs with durable execution and human-in-the-loop checkpoints.
-
-- **[smolagents (Hugging Face)](https://github.com)** for a minimalist open-source Python library enabling code-writing agents (`CodeAgent`) to execute actions natively in Python.
-
-- **[PydanticAI (`pydantic/pydantic-ai`)](https://github.com)** for type-safe, production-grade open-source Python agent development with structured output validation.
-
-- **[Arize Phoenix (`Arize-ai/phoenix`)](https://github.com)** and **[Langfuse (`langfuse/langfuse`)](https://github.com)** for self-hosted open-source OpenTelemetry agent tracing, prompt evaluation, and reasoning-step observability.
-
-- **[verl (Volcano Engine Reinforcement Learning)](https://github.com)** and **[OpenRLHF](https://github.com)** for post-training open-weight LLMs with GRPO/PPO reinforcement learning to unlock test-time reasoning.
-
-
-
-**Frameworks for building custom systems**: Combine **DeepSeek-R1** or **Qwen3** served locally via **vLLM/Ollama**, **NousResearch/hermes-agent** or **LangGraph** for autonomous tool-use loops, and **Langfuse** for self-hosted step-by-step trace observability.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Autonomous agents paired with long-horizon reasoning models can enter recursive loops, consume significant compute/tokens, or execute unintended tool actions; always enforce max-step budgets, sandboxing, and human approval gates.
-
-- Verify model weight licenses (MIT, Apache 2.0, Qwen License) and safety benchmarks before deploying open reasoning models in production environments.
-
-
+- **[QwQ / Qwen3 (`QwenLM/QwQ`)](https://github.com/QwenLM/QwQ)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/QwQ?style=social&color=white)](https://github.com/QwenLM/QwQ/stargazers)  
+  *Alibaba's open-weight reasoning model family showcasing step-by-step thinking, mathematical logic, code generation, and test-time compute exploration.* 🧠📐
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Autonomous-AI-Agents-Open-Reasoning-Models&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Autonomous-AI-Agents-Open-Reasoning-Models&type=date&legend=top-left)
 
-**Made for AI agent engineers, ML researchers, open-source model trainers, and automation architects.**  
+---
 
-Let's make autonomous AI agents and reasoning models more open, reproducible, and verifiable.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make this ecosystem repository comprehensive and accurate:
+
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a descriptive branch** (`git checkout -b add-agent-platform`).
+3. 📝 **Add or update entries in `README.md`** following the existing tabular or sorted list structure.
+4. ✨ **Include verifiable facts**: Link directly to official sites/repos, note accurate pricing tiers, free tier limits, or GitHub star metrics.
+5. 🚀 **Submit a Pull Request** with a concise description of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated collection useful for your research, team, or projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with fellow developers and AI practitioners.
+- ☕ **Buy a coffee or sponsor ongoing maintenance**: [Sponsor Ishan Dutta on GitHub](https://github.com/sponsors/ishandutta2007)
+
+*Your support helps maintain daily tracking of frontier AI agents and open reasoning model breakthroughs! Thank you!* 🙏
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an **independent community-curated list** for informational and research purposes; it does not constitute an endorsement.
+- Autonomous AI agents combined with long-horizon reasoning models can enter recursive action loops, consume significant compute/API credits, or execute unexpected side-effects. Always enforce sandboxing, execution timeout budgets, and human-in-the-loop validation in production.
+- Verify model licensing terms (Apache 2.0, MIT, DeepSeek License, Qwen License) and acceptable use policies before commercial deployment.
+
+---
+
+<div align="center">
+
+**Built with ❤️ for AI Agent Engineers, ML Researchers, and Open-Source Builders.**
+
+</div>

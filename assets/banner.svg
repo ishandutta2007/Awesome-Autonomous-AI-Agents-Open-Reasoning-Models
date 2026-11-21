@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a16" />
+      <stop offset="50%" stop-color="#0f1123" />
+      <stop offset="100%" stop-color="#070814" />
+    </linearGradient>
+
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1" />
+    </pattern>
+
+    <style>
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+      
+      /* Subtle Dynamic Animations in the Background */
+      @keyframes pulseOrb {
+        0%, 100% { transform: scale(1) translate(0, 0); opacity: 0.35; }
+        50% { transform: scale(1.15) translate(20px, -15px); opacity: 0.6; }
+      }
+      @keyframes floatNode1 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes floatNode2 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(8px); }
+      }
+      @keyframes dashAnim {
+        to { stroke-dashoffset: -100; }
+      }
+      @keyframes shimmer {
+        0% { stop-color: #38bdf8; }
+        50% { stop-color: #f43f5e; }
+        100% { stop-color: #38bdf8; }
+      }
+      
+      .orb-1 { animation: pulseOrb 8s ease-in-out infinite; transform-origin: 200px 100px; }
+      .orb-2 { animation: pulseOrb 10s ease-in-out infinite reverse; transform-origin: 1000px 300px; }
+      .node-float-1 { animation: floatNode1 5s ease-in-out infinite; }
+      .node-float-2 { animation: floatNode2 6s ease-in-out infinite; }
+      .flow-path { stroke-dasharray: 6 6; animation: dashAnim 4s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="420" fill="url(#bgGrad)" rx="16" />
+  <rect width="1200" height="420" fill="url(#grid)" rx="16" />
+
+  <!-- Dynamic Glowing Orbs in Background -->
+  <circle class="orb-1" cx="220" cy="120" r="160" fill="#38bdf8" opacity="0.25" filter="url(#glow)" />
+  <circle class="orb-2" cx="980" cy="280" r="180" fill="#818cf8" opacity="0.2" filter="url(#glow)" />
+  <circle cx="600" cy="380" r="140" fill="#c084fc" opacity="0.12" filter="url(#glow)" />
+
+  <!-- Animated Background Circuit / Agent Flow Lines -->
+  <g opacity="0.25">
+    <path class="flow-path" d="M 50 80 Q 300 20 600 80 T 1150 80" fill="none" stroke="#38bdf8" stroke-width="2" />
+    <path class="flow-path" d="M 50 360 Q 350 400 700 350 T 1150 340" fill="none" stroke="#c084fc" stroke-width="2" />
+    <line class="flow-path" x1="150" y1="50" x2="150" y2="380" stroke="#818cf8" stroke-width="1.5" />
+    <line class="flow-path" x1="1050" y1="40" x2="1050" y2="380" stroke="#38bdf8" stroke-width="1.5" />
+  </g>
+
+  <!-- Subtle Floating Architecture Pill Badges (Right & Left Corners, low z-index) -->
+  <g class="node-float-1" opacity="0.6">
+    <rect x="80" y="45" width="130" height="32" rx="16" fill="url(#cardGrad)" stroke="#38bdf8" stroke-width="1" />
+    <circle cx="98" cy="61" r="5" fill="#38bdf8" />
+    <text x="112" y="66" fill="#93c5fd" font-size="12" font-weight="600" class="font-sans">DeepSeek-R1</text>
+  </g>
+
+  <g class="node-float-2" opacity="0.6">
+    <rect x="990" y="55" width="130" height="32" rx="16" fill="url(#cardGrad)" stroke="#c084fc" stroke-width="1" />
+    <circle cx="1008" cy="71" r="5" fill="#c084fc" />
+    <text x="1022" y="76" fill="#e9d5ff" font-size="12" font-weight="600" class="font-sans">Multi-Agent RL</text>
+  </g>
+
+  <g class="node-float-1" opacity="0.6">
+    <rect x="960" y="340" width="160" height="32" rx="16" fill="url(#cardGrad)" stroke="#818cf8" stroke-width="1" />
+    <circle cx="978" cy="356" r="5" fill="#818cf8" />
+    <text x="992" y="361" fill="#c7d2fe" font-size="12" font-weight="600" class="font-sans">Chain-of-Thought</text>
+  </g>
+
+  <g class="node-float-2" opacity="0.6">
+    <rect x="80" y="335" width="140" height="32" rx="16" fill="url(#cardGrad)" stroke="#34d399" stroke-width="1" />
+    <circle cx="98" cy="351" r="5" fill="#34d399" />
+    <text x="112" y="356" fill="#a7f3d0" font-size="12" font-weight="600" class="font-sans">Autonomous Ops</text>
+  </g>
+
+  <!-- FOREGROUND CONTENT: Guaranteed sharp, clear & unobstructed -->
+  <!-- Category Tag -->
+  <g transform="translate(600, 85)">
+    <rect x="-140" y="-16" width="280" height="32" rx="16" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5" />
+    <text x="0" y="5" text-anchor="middle" fill="#a5b4fc" font-size="13" font-weight="700" letter-spacing="1.5" class="font-sans">
+      CURATED ECOSYSTEM 2026
+    </text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="600" y="165" text-anchor="middle" class="font-sans" font-size="44" font-weight="900" fill="url(#primaryGrad)" filter="url(#subtleGlow)">
+    Autonomous AI Agents
+  </text>
+  <text x="600" y="215" text-anchor="middle" class="font-sans" font-size="34" font-weight="800" fill="#f8fafc">
+    &amp; Open Reasoning Models
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="260" text-anchor="middle" class="font-sans" font-size="17" font-weight="400" fill="#94a3b8">
+    DeepSeek-R1 • QwQ • AutoGPT • CrewAI • LangGraph • Hermes • Self-Hosted Runtimes &amp; Observability
+  </text>
+
+  <!-- Visual Feature Cards / Bottom Highlights -->
+  <g transform="translate(300, 290)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="180" height="42" rx="8" fill="#111827" stroke="#374151" stroke-width="1" />
+    <text x="90" y="26" text-anchor="middle" class="font-sans" font-size="13" font-weight="600" fill="#38bdf8">🤖 Autonomous Agents</text>
+    
+    <!-- Card 2 -->
+    <rect x="210" y="0" width="180" height="42" rx="8" fill="#111827" stroke="#374151" stroke-width="1" />
+    <text x="300" y="26" text-anchor="middle" class="font-sans" font-size="13" font-weight="600" fill="#a855f7">🧠 Open Reasoning</text>
+
+    <!-- Card 3 -->
+    <rect x="420" y="0" width="180" height="42" rx="8" fill="#111827" stroke="#374151" stroke-width="1" />
+    <text x="510" y="26" text-anchor="middle" class="font-sans" font-size="13" font-weight="600" fill="#34d399">⚡ Hosted &amp; Open-Source</text>
+  </g>
+
+  <!-- Outer Border -->
+  <rect x="1" y="1" width="1198" height="418" rx="15" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1" />
+</svg>
